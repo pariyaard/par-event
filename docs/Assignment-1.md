@@ -28,7 +28,7 @@ Location:
 docs/postman/Event Planner API.postman_collection.json
 ```
 
-
+---
 ## Current application
 The current application is a backend event planner application.
 
@@ -57,7 +57,7 @@ The backend is built with:
 There is a relationship between users and events.
 One user can have multiple events.
 
-
+---
 ## Company and project goal
 Company name:
 EventFlow
@@ -76,7 +76,7 @@ In future assignments the system can be improved by splitting the application in
 
 The goal is to create a better structured and scalable system.
 
-
+---
 ## Future improvements
 In future assignments the application can be improved by:
 - splitting the system into smaller parts
@@ -87,7 +87,7 @@ In future assignments the application can be improved by:
 
 The project will focus on creating a better distributed and scalable system.
 
-
+---
 ## Quality requirements
 The project should focus on:
 - scalability
